@@ -1,0 +1,15 @@
+{
+	"id": "476c78d9-9c92-487b-b17f-4f8789ac2dbb",
+	"name": "dev",
+	"values": [
+		{
+			"key": "BaseURL",
+			"value": "https://www.deckofcardsapi.com/api",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-07-29T08:20:16.413Z",
+	"_postman_exported_using": "Postman/11.55.3"
+}
